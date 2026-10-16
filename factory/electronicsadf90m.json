@@ -1,0 +1,15 @@
+{
+	"name": "electronicsadf90m",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c72d8667-5841-4d0a-bd14-c981f3b377ed",
+		"tenantId": "52be9b6e-9910-47d6-80cb-db1b6a505f2e"
+	}
+}
